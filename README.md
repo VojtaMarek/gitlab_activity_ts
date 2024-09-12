@@ -46,4 +46,3 @@ Vojtech Marek
 
 ## License
 This project is licensed under the MIT License - You can modify the content, particularly the repository URL and project name, to fit your actual project details.
-```
